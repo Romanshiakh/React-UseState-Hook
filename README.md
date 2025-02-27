@@ -1,7 +1,7 @@
 # React useState Hook 
 MyComponent is a simple React component demonstrating the use of state hooks (useState) to manage and update various properties such as name, age, and isEmployed status. The component includes three sections, each containing a display of the current state and a button to update it.
 
-# nstallation
+# Installation
 To use MyComponent, ensure you have React installed in your project:
 
 bash
